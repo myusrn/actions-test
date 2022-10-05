@@ -14,6 +14,7 @@ Since the self-hosted runner opens a connection to GitHub.com, you do not need t
 You must ensure that the machine has the appropriate network access to communicate with the GitHub hosts listed below. Some hosts are required for essential runner operations, while other hosts are only required for certain functionality.  
 
 - [github flow to collaborate on projects](https://docs.github.com/en/get-started/quickstart/github-flow)  
+- [github actions hosted runners images](https://github.com/actions/runner-images)  
 <br>
 
 walkthroughs used . . .  
